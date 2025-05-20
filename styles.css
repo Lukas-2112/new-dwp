@@ -211,6 +211,18 @@ a:hover {
   border-color: #1d456d;
 }
 
+.btn-secondary {
+  background: #8d0d0d;
+  border-color: #a00f0f;
+}
+.btn-secondary:active {
+  background: #8d0d0d;
+  border-color: #8d0d0d;
+}
+.btn-secondary:hover {
+  background: #8d0d0d;
+  border-color: #8d0d0d;
+}
 #vergleich-chart {
   max-width: 100%;
   height: auto;
